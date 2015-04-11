@@ -1,0 +1,58 @@
+#EXTINF:-1, XXX Music 4
+http://zazax1.ru/videos/baz50.flv
+#EXTINF:-1, XXX Music 5
+http://zazax1.ru/videos/baz51.flv
+#EXTINF:-1, XXX Music 6
+http://zazax1.ru/videos/baz52.flv ?
+#EXTINF:-1, XXX Music 7
+http://zazax1.ru/videos/baz53.flv
+#EXTINF:-1, XXX Music 8
+http://zazax1.ru/videos/baz54.flv
+#EXTINF:-1, XXX Music 9
+http://zazax1.ru/videos/baz55.flv
+#EXTINF:-1, XXX Music 10
+http://zazax1.ru/videos/baz64.flv
+#EXTINF:-1, XXX Music 11
+http://zazax1.ru/video/muz10.flv
+#EXTINF:-1, XXX Music 12
+http://zazax1.ru/videos/muz1.flv
+#EXTINF:-1, XXX Music 13
+http://zazax1.ru/videos/muz3.flv
+#EXTINF:-1, XXX Music 14
+http://zazax1.ru/video/provmc.flv
+#EXTINF:-1, XXX Music 15
+http://zazax1.ru/video/muz3.flv
+#EXTINF:-1, XXX Music 16
+http://zazax1.ru/video/barto.mp4
+#EXTINF:-1, XXX Music 17
+http://zazax1.ru/video/mzclip.mp4
+#EXTINF:-1, XXX Music 18
+http://zazax1.ru/video/masterlatex.mp4
+#EXTINF:-1, XXX Music 19
+http://zazax1.ru/video/Money%20Boy-Stripclub.flv
+#EXTINF:-1, XXX Music 2
+http://zazax1.ru/videos/baz4.flv
+#EXTINF:-1, XXX Music 20
+http://zazax1.ru/video/Linkin%20Park%20Uncensored.mp4
+#EXTINF:-1, XXX Music 21
+http://zazax1.ru/video/Junior%20Jack%20-%20Stupidisco.mp4
+#EXTINF:-1, XXX Music 22
+http://zazax1.ru/video/Flawliss%20-%20Ms.%20Apple%20Bottom.flv
+#EXTINF:-1, XXX Music 23
+http://zazax1.ru/video/Fig%20Dish%20-%20When%20shirts%20get%20tight.mp4
+#EXTINF:-1, XXX Music 3
+http://zazax1.ru/videos/baz57.flv
+#EXTINF:-1, XXX Music 4
+http://zazax1.ru/videos/muz.flv
+#EXTINF:-1, XXX Music 5
+http://zazax1.ru/videos/baz66.flv
+#EXTINF:-1, XXX Music 6
+http://zazax1.ru/video/lesr.flv
+#EXTINF:-1, XXX Music 7
+http://zazax1.ru/videos/baz65.flv
+#EXTINF:-1, XXX Music 8
+http://zazax1.ru/video/nemnf.flv
+#EXTINF:-1, XXX Music 9
+http://zazax1.ru/videos/011.flv
+#EXTINF:-1, XXX Music 10
+http://zazax1.ru/videos/012.flv
